@@ -53,5 +53,16 @@ Launch Jupyter Notebook and open the provided notebook file.
 
 Run each cell sequentially to perform the analysis and review the results.
 
-Contact
-For questions, suggestions, or collaboration inquiries, please open an issue or reach out to the project maintainer.
+> **Note:**  
+> The data file `Crime_Data_from_2020_to_Present_20250630.csv` exceeds GitHub's upload limit and is not included in this repository.  
+> To use this project, please download the dataset from the [LA Open Data Portal](https://data.lacity.org/) and save it in your project folder with the same filename.
+
+---
+
+## Connect with Me
+
+- [GitHub](https://github.com/Sophos333)
+- [LinkedIn](https://www.linkedin.com/in/yashuasspear-oscar-holguin-silva/)
+- [Portfolio](https://sophos333.github.io/sophos-chatbot-portfolio/)
+
+---
